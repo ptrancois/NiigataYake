@@ -1,6 +1,6 @@
 # NiigataYake
 
-> **Présentation du sujet** : Un réseau de NstationsgéodésiquesGNSS est installé sur lespentes duvolcan Nigata-Yake-yama (Honshu-Japan) localisé à36.918°N, 138.039°E, soit en coordonnéesUTM 236226 m Est, 4089872 m Nord. Les stations ont enregistré des déplacements du sol (Tableau 1), que l'on considère ici comme pouvant être induites par la variation de volume d'un réservoir magmatique sous pression, situe a l'aplomb du sommet.
+> **Présentation du sujet** : Un réseau de NstationsgéodésiquesGNSS est installé sur les pentes du volcan Nigata-Yake-yama (Honshu-Japan) localisé à36.918°N, 138.039°E, soit en coordonnées UTM 236226 m Est, 4089872 m Nord. Les stations ont enregistré des déplacements du sol (Tableau 1), que l'on considère ici comme pouvant être induites par la variation de volume d'un réservoir magmatique sous pression, situe a l'aplomb du sommet.
 Un modèle simple, supposant un milieu élastique homogène, établit que el déplacement observé
 à une distance horizontale rd e la source, sur un point d'altitude h au-dessus du niveau de al mer, produit par une variationde volume AV dans le réservoir situé à une profondeur f sous le riveau de
 la mer.
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 Ce projet a été réalisé dans le cadre du cours de L3 de [Programmation pour l'analyse des données en Géosciences](https://www.ipgp.fr/~egayer/Python_Ressources/Bookin_Prog4Geo/Chap6.pdf). 
 
-Pour toute question ou suggestion, n'hésitez pas à ouvrir un problème dans le dépôt ou à contacter les responsables du projet [Paul-Émile Trançois](paulemile.trancois@sciencespo.fr) ou [Paul Serre](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/paulserreku&ved=2ahUKEwjsmdTg_LCJAxW4RKQEHWYjBzoQFnoECBQQAQ&usg=AOvVaw35dpqaFlgT601CscvgtlG7)
+Pour toute question ou suggestion, n'hésitez pas à ouvrir un problème dans le dépôt ou à contacter les responsables du projet [Paul-Émile Trançois](https://github.com/ptrancois) ou [Paul Serre](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/paulserreku&ved=2ahUKEwjsmdTg_LCJAxW4RKQEHWYjBzoQFnoECBQQAQ&usg=AOvVaw35dpqaFlgT601CscvgtlG7)
 
 N'hésitez pas à modifier ce modèle en fonction des besoins spécifiques de votre projet.
 
